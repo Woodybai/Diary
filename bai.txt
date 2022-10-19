@@ -1,0 +1,12 @@
+
+dfjdk
+dfs
+
+
+z
+z
+z;
+
+copy con bai.txt
+copy con bai.txtz
+copy con bai.txtz
